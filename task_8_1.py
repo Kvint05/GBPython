@@ -9,5 +9,5 @@ def email_parse(email_address):
     return result.groupdict()
 
 
-print(email_parse('kvint05@mail.ru'))
 print(email_parse('relax03@mail.ru'))
+print(email_parse('kvint05@mail.ru'))
